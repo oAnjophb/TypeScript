@@ -1,0 +1,52 @@
+           BANCO EXEMPLO S/A
+           RELAÇÃO DE CONTAS
+----------------------------------------
+AG   CONTA  T TITULAR
+---- ------ - --------------------------
+ 987  12345 R FULANO DE CASTRO
+ 123  98765 R BELTRANO DA SILVA
+ 123  76340 E CICRANO DE OLIVEIRA
+----------------------------------------
+
+02/05/25     BANCO EXEMPLO S/A     15:48
+AG  : 987                     C/C: 12345
+NOME: FULANO DE CASTRO
+----------------------------------------
+DATA  OPERACAO                     VALOR
+05/01 DEPÓSITO                 1.267,00C
+12/03 DEPÓSITO                   344,00C
+22/04 SAQUE                      394,00D
+22/05 DEPÓSITO                   435,00C
+----------------------------------------
+                      SALDO    1.652,00C
+
+02/05/25     BANCO EXEMPLO S/A     15:48
+AG  : 123                     C/C: 98765
+NOME: BELTRANO DA SILVA
+----------------------------------------
+DATA  OPERACAO                     VALOR
+12/01 DEPÓSITO                 1.556,00C
+13/01 DEPÓSITO                   270,00C
+15/02 SAQUE                      416,00D
+22/02 DEPÓSITO                   347,00C
+28/05 TRANSFER/CRÉDITO           480,00C
+----------------------------------------
+                      SALDO    2.237,00C
+
+02/05/25     BANCO EXEMPLO S/A     15:48
+AG  : 123                     C/C: 76340
+NOME: CICRANO DE OLIVEIRA
+----------------------------------------
+DATA  OPERACAO                     VALOR
+02/01 DEPÓSITO                 1.517,00C
+05/03 SAQUE                      339,00D
+07/03 DEPÓSITO                   115,00C
+01/04 DEPÓSITO                   128,00C
+04/04 DEPÓSITO                   463,00C
+12/05 DEPÓSITO                   305,00C
+22/05 TRANSFER/DÉBITO            480,00D
+----------------------------------------
+                      SALDO    1.709,00C
+
+                     LIMITE    1.000,00C
+                 DISPONÍVEL    2.709,00C

@@ -1,0 +1,21 @@
+             
+             
+             CLÍNICA VET VIDA ANIMAL
+       Cuidando com carinho de quem te ama
+==================================================
+RELATÓRIO DIÁRIO DE CONSULTAS - 06/05/2025
+Veterinário responsável: Dr. Rafael Andrade
+--------------------------------------------------
+NOME DO PET    | ESPÉCIE   | HORÁRIO  | PROCEDIMENTO
+--------------------------------------------------
+Luna           | Cachorro  | 09:00    | Consulta geral
+Mingau         | Gato      | 09:45    | Vacinação (V5)
+Thor           | Cachorro  | 10:30    | Retorno pós-cirúrgico
+Bolota         | Porquinho | 11:15    | Vermifugação
+Princesa       | Gato      | 14:00    | Consulta com exames
+Tico           | Cachorro  | 15:20    | Aplicação de medicamento
+--------------------------------------------------
+Total de atendimentos: 6
+==================================================
+Assinatura do veterinário: _______________________
+==================================================
