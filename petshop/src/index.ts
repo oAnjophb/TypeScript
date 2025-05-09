@@ -22,11 +22,13 @@ nicoAccount.realizeService(2, '14/08/2024')
 nicoAccount.realizeService(3, '21/04/2025')
 linoAccount.realizeService(1, '15/06/2025')
 
+
+linoAccount.showHistory()
+nicoAccount.showHistory()
+
 rafael.realizeCare(lino, '09:30', 0)
 rafael.realizeCare(nico, '10:00', 3)
 
 
 rafael.showReport()
 
-// linoAccount.showHistory()
-// nicoAccount.showHistory()

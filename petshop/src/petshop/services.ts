@@ -19,7 +19,6 @@ export enum Procedure {
     "Retorno pós-cirúrgico",
     "Consulta com exames",
     "Aplicação de medicamento"
-
 }
 
 
