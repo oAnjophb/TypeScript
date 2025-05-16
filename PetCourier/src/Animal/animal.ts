@@ -1,16 +1,13 @@
 
-export type SizeRange = {
+export type autonomy = {
   name: string,
-  min: number,
-  max: number
+  qty_fuel: number
 }
 
-export const sizes: SizeRange[] = [
-  { name: "tiny", min: 0.1 , max: 2 },
-  { name: "small", min: 2.1 , max: 9.9 },
-  { name: "medium", min: 10, max: 35.9 },
-  { name: "large", min: 36, max: 75.9 },
-  { name: "huge", min: 75, max: Infinity },
+export const distances: autonomy[] = [
+  { name: "very near", qty_fuel: 50 },
+  { name: "near", qty_fuel: 75 },
+  { name> }
 ]
 
 export class Animal {

@@ -11,5 +11,4 @@ export function randomSelection<T>(array: T[], value: number): T[] {
   } while (selection.length < value)
 
   return selection
-
 }
